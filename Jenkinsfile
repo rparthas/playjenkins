@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "rparthas/endgame"
+    registry = "rparthas87/playjenkins"
     registryCredential = 'dockerhub'
     dockerImage = ""
   }
